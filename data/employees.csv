@@ -1,0 +1,161 @@
+Employee_ID,Name,Branch_ID,Role,Department,Joining_Date
+E500001,Nandini Hegde,BR003,Relationship Manager,Retail Banking,2021-09-15 06:35:49
+E500002,Sahil Kulkarni,BR007,Customer Service Executive,Loans,2021-05-29 16:39:40
+E500003,Isha Shetty,BR006,Relationship Manager,Loans,2022-02-26 02:03:20
+E500004,Rakesh Nair,BR002,Relationship Manager,Operations,2020-08-26 04:43:06
+E500005,Riya Naik,HO001,Cashier,Analytics,2021-12-24 03:06:04
+E500006,Priya Desai,BR006,Relationship Manager,Operations,2019-05-03 21:47:15
+E500007,Suresh Desai,BR008,Loan Officer,Loans,2025-12-02 21:30:15
+E500008,Rahul Joshi,BR006,Customer Service Executive,Retail Banking,2024-03-09 20:09:45
+E500009,Arjun Kulkarni,BR008,Cashier,Loans,2021-06-12 01:49:10
+E500010,Aditi Bhat,BR003,Branch Manager,Customer Service,2018-10-27 09:54:18
+E500011,Mohit Kazi,BR002,Customer Service Executive,Analytics,2022-10-26 07:09:56
+E500012,Sneha Naik,BR007,Cashier,Loans,2019-02-02 01:23:00
+E500013,Chetan Bhat,BR005,Data Analyst,Loans,2023-01-19 17:48:06
+E500014,Shreya Mehta,BR004,Operations Executive,Loans,2024-01-13 10:36:05
+E500015,Aditya Nair,BR004,Cashier,Loans,2024-06-19 09:14:06
+E500016,Sahil Patil,BR008,Relationship Manager,Analytics,2022-10-01 09:27:32
+E500017,Tanvi Hegde,BR004,Relationship Manager,Loans,2022-05-13 06:04:47
+E500018,Mohit Gowda,BR002,Loan Officer,Retail Banking,2018-10-11 07:20:06
+E500019,Kriti Khan,BR004,Relationship Manager,Customer Service,2023-12-09 18:05:59
+E500020,Priya Mehta,BR002,Operations Executive,Analytics,2024-04-24 23:15:53
+E500021,Harsh Nair,BR005,Relationship Manager,Customer Service,2021-10-26 22:34:07
+E500022,Sahil Sharma,BR008,Relationship Manager,Analytics,2022-12-27 21:34:56
+E500023,Nandini Naik,BR005,Customer Service Executive,Customer Service,2025-05-19 06:13:04
+E500024,Sneha Patil,BR004,Cashier,Operations,2025-01-11 10:17:22
+E500025,Pallavi Nair,BR003,Relationship Manager,Retail Banking,2021-02-19 21:04:41
+E500026,Mohit Chavan,BR007,Operations Executive,Customer Service,2018-10-11 19:04:30
+E500027,Bhavya Khan,BR002,Branch Manager,Retail Banking,2025-05-20 22:14:38
+E500028,Karan Mishra,BR004,Data Analyst,Loans,2024-12-03 00:32:13
+E500029,Rakesh Nair,BR003,Branch Manager,Operations,2025-02-26 18:07:00
+E500030,Pallavi Kazi,BR002,Customer Service Executive,Analytics,2022-03-13 15:58:10
+E500031,Aditi Sharma,BR004,Loan Officer,Customer Service,2019-05-31 20:13:24
+E500032,Aarav Chavan,BR002,Customer Service Executive,Retail Banking,2018-10-29 10:00:00
+E500033,Chetan Verma,BR007,Customer Service Executive,Loans,2021-04-07 16:01:34
+E500034,Riya Bhat,BR004,Operations Executive,Customer Service,2024-12-10 10:59:19
+E500035,Anjali Iyer,BR003,Operations Executive,Operations,2018-12-17 05:40:35
+E500036,Pooja Gupta,BR007,Data Analyst,Operations,2019-09-25 08:00:42
+E500037,Harsh Joshi,BR003,Relationship Manager,Loans,2025-04-12 14:52:39
+E500038,Nikhil Kulkarni,BR005,Customer Service Executive,Retail Banking,2023-11-23 18:46:42
+E500039,Pallavi Shetty,BR006,Customer Service Executive,Operations,2020-12-03 04:13:55
+E500040,Neha Chavan,BR003,Relationship Manager,Analytics,2021-12-07 13:23:43
+E500041,Bhavya Gowda,BR005,Loan Officer,Operations,2018-02-15 02:07:46
+E500042,Shreya Kulkarni,BR004,Relationship Manager,Operations,2020-10-08 04:23:09
+E500043,Tanvi Khan,BR006,Relationship Manager,Analytics,2020-11-18 09:18:29
+E500044,Mohit Mishra,BR002,Cashier,Analytics,2020-03-01 15:33:50
+E500045,Vikas Patil,BR006,Operations Executive,Operations,2023-04-16 02:19:34
+E500046,Rohan Kulkarni,BR003,Operations Executive,Loans,2020-10-17 13:43:49
+E500047,Mohit Bhat,HO001,Cashier,Operations,2019-03-21 04:01:52
+E500048,Varun Desai,BR003,Data Analyst,Retail Banking,2022-12-11 09:23:38
+E500049,Manish Bhat,BR003,Cashier,Operations,2021-02-28 12:45:24
+E500050,Akash Bhat,BR002,Loan Officer,Retail Banking,2020-05-21 02:01:57
+E500051,Vivek Hegde,BR004,Relationship Manager,Operations,2019-05-13 21:54:00
+E500052,Arjun Verma,HO001,Customer Service Executive,Customer Service,2020-03-21 05:13:32
+E500053,Anjali Iyer,BR008,Branch Manager,Retail Banking,2018-03-29 05:44:48
+E500054,Rohan Naik,BR005,Cashier,Retail Banking,2018-03-14 19:39:10
+E500055,Rohan Mehta,BR005,Cashier,Operations,2024-02-23 06:51:30
+E500056,Nikhil Gupta,BR008,Relationship Manager,Analytics,2019-11-26 19:49:29
+E500057,Tanvi Sharma,BR002,Loan Officer,Retail Banking,2019-05-27 17:12:45
+E500058,Rakesh Verma,BR002,Customer Service Executive,Loans,2020-10-01 06:08:24
+E500059,Swati Kazi,BR004,Loan Officer,Operations,2026-07-01 04:13:58
+E500060,Riya Naik,BR007,Customer Service Executive,Retail Banking,2018-09-27 23:59:20
+E500061,Mohit Kulkarni,BR008,Customer Service Executive,Operations,2019-11-01 07:48:54
+E500062,Diya Mehta,BR006,Loan Officer,Customer Service,2022-07-11 02:29:03
+E500063,Kriti Verma,BR006,Loan Officer,Operations,2023-05-23 16:47:38
+E500064,Sahil Gupta,HO001,Cashier,Analytics,2018-05-17 07:54:38
+E500065,Kavya Patil,HO001,Data Analyst,Retail Banking,2021-01-09 07:28:29
+E500066,Rakesh Mishra,HO001,Loan Officer,Loans,2025-05-11 01:14:19
+E500067,Harsh Gupta,BR004,Relationship Manager,Analytics,2021-11-01 02:23:36
+E500068,Sahil Patil,BR003,Operations Executive,Customer Service,2025-03-05 05:19:49
+E500069,Deepa Desai,BR004,Customer Service Executive,Retail Banking,2018-01-20 19:41:00
+E500070,Tanvi Nair,BR004,Cashier,Operations,2023-11-04 06:13:15
+E500071,Aarav Joshi,BR005,Relationship Manager,Loans,2020-10-25 23:52:07
+E500072,Rohan Rao,BR006,Operations Executive,Retail Banking,2019-10-30 19:45:36
+E500073,Shreya Hegde,HO001,Customer Service Executive,Customer Service,2022-09-10 07:39:05
+E500074,Meera Joshi,HO001,Customer Service Executive,Customer Service,2020-02-17 06:06:50
+E500075,Sahil Sharma,BR008,Branch Manager,Retail Banking,2023-11-19 08:51:17
+E500076,Diya Verma,BR004,Loan Officer,Loans,2019-11-28 15:57:24
+E500077,Sneha Verma,BR005,Loan Officer,Customer Service,2023-09-21 23:48:09
+E500078,Sneha Nair,BR005,Customer Service Executive,Customer Service,2024-12-23 11:17:04
+E500079,Kavya Mehta,BR006,Cashier,Operations,2022-06-18 20:33:05
+E500080,Pallavi Khan,BR003,Relationship Manager,Loans,2020-11-02 07:51:59
+E500081,Manish Gupta,BR003,Relationship Manager,Loans,2023-05-27 00:00:17
+E500082,Aarav Shetty,BR007,Customer Service Executive,Loans,2023-07-09 06:03:38
+E500083,Swati Desai,BR007,Relationship Manager,Retail Banking,2024-10-30 06:52:00
+E500084,Nandini Iyer,BR007,Loan Officer,Analytics,2026-06-09 17:40:08
+E500085,Vikas Mehta,BR003,Loan Officer,Loans,2019-07-10 08:04:44
+E500086,Kriti Hegde,BR004,Cashier,Loans,2018-07-31 02:18:41
+E500087,Karan Gowda,BR002,Customer Service Executive,Customer Service,2018-04-11 04:23:38
+E500088,Pallavi Desai,BR008,Relationship Manager,Operations,2021-09-26 13:04:46
+E500089,Suresh Sharma,HO001,Data Analyst,Loans,2024-11-12 17:00:51
+E500090,Sanjay Mishra,BR008,Customer Service Executive,Analytics,2022-11-19 03:41:19
+E500091,Anjali Kulkarni,BR003,Operations Executive,Analytics,2023-07-29 09:38:31
+E500092,Karan Gowda,HO001,Customer Service Executive,Loans,2021-06-14 16:50:44
+E500093,Neha Gowda,BR005,Loan Officer,Retail Banking,2022-03-22 09:18:22
+E500094,Nandini Bhat,BR007,Cashier,Loans,2018-08-10 14:48:18
+E500095,Kavya Mishra,BR007,Relationship Manager,Retail Banking,2018-04-12 17:08:37
+E500096,Aditi Kazi,BR006,Data Analyst,Customer Service,2018-05-29 00:02:15
+E500097,Varun Shetty,BR007,Cashier,Customer Service,2019-07-13 00:39:50
+E500098,Riya Gupta,HO001,Cashier,Retail Banking,2022-04-30 14:32:30
+E500099,Nikhil Shetty,BR007,Branch Manager,Analytics,2019-02-14 03:55:34
+E500100,Shreya Patil,BR002,Operations Executive,Customer Service,2018-06-15 15:46:01
+E500101,Arjun Hegde,BR002,Data Analyst,Retail Banking,2025-10-28 19:05:35
+E500102,Nikhil Gupta,BR008,Cashier,Operations,2024-12-26 13:09:20
+E500103,Aditi Nair,BR002,Customer Service Executive,Customer Service,2019-08-24 12:59:32
+E500104,Akash Joshi,BR006,Branch Manager,Retail Banking,2021-08-19 03:03:07
+E500105,Diya Desai,BR008,Customer Service Executive,Analytics,2019-05-15 11:51:09
+E500106,Nikhil Mehta,BR002,Relationship Manager,Customer Service,2024-12-23 05:36:52
+E500107,Priya Desai,BR005,Customer Service Executive,Customer Service,2024-01-19 13:02:41
+E500108,Vivek Nair,BR007,Relationship Manager,Customer Service,2018-10-01 13:36:11
+E500109,Rohan Patil,BR007,Loan Officer,Retail Banking,2024-12-31 01:51:34
+E500110,Suresh Mehta,BR005,Relationship Manager,Customer Service,2018-02-06 13:05:18
+E500111,Vikas Chavan,BR006,Cashier,Analytics,2019-02-25 19:36:16
+E500112,Deepa Verma,BR006,Customer Service Executive,Loans,2022-01-11 10:57:11
+E500113,Diya Rao,BR005,Branch Manager,Customer Service,2026-05-02 20:52:13
+E500114,Vivek Patil,BR004,Branch Manager,Operations,2018-11-23 02:11:26
+E500115,Chetan Mehta,BR007,Branch Manager,Analytics,2026-02-11 23:57:44
+E500116,Sanjay Nair,BR008,Data Analyst,Analytics,2024-06-02 19:54:17
+E500117,Aditya Joshi,BR004,Cashier,Operations,2021-12-28 10:28:15
+E500118,Mohit Rao,BR003,Operations Executive,Loans,2025-10-05 06:37:44
+E500119,Arjun Naik,BR006,Customer Service Executive,Operations,2020-02-10 07:54:50
+E500120,Karan Sharma,HO001,Loan Officer,Customer Service,2025-09-04 04:54:47
+E500121,Sanjay Sharma,BR005,Cashier,Analytics,2025-05-03 11:41:25
+E500122,Tanvi Bhat,BR008,Loan Officer,Customer Service,2021-10-07 09:01:52
+E500123,Sneha Mishra,BR006,Operations Executive,Retail Banking,2018-04-03 11:26:58
+E500124,Neha Rao,BR005,Relationship Manager,Operations,2024-12-09 11:30:33
+E500125,Deepa Sharma,BR006,Data Analyst,Customer Service,2021-09-08 09:21:00
+E500126,Sanjay Mehta,BR008,Customer Service Executive,Customer Service,2024-08-05 04:04:46
+E500127,Aditi Chavan,BR002,Loan Officer,Loans,2025-09-07 02:44:31
+E500128,Kriti Kulkarni,BR004,Cashier,Analytics,2022-12-30 21:18:56
+E500129,Deepa Rao,BR004,Relationship Manager,Customer Service,2018-09-12 01:46:26
+E500130,Anjali Gowda,HO001,Customer Service Executive,Operations,2025-02-04 21:05:36
+E500131,Mohit Desai,BR005,Loan Officer,Analytics,2024-10-21 15:58:36
+E500132,Nandini Gowda,BR002,Relationship Manager,Loans,2026-01-04 22:44:01
+E500133,Bhavya Gupta,BR003,Branch Manager,Analytics,2021-05-14 14:47:57
+E500134,Nandini Khan,BR007,Loan Officer,Loans,2021-04-24 11:51:36
+E500135,Yash Gowda,BR004,Customer Service Executive,Retail Banking,2026-05-05 18:03:50
+E500136,Deepa Gupta,BR006,Cashier,Analytics,2025-11-19 16:20:47
+E500137,Kriti Gowda,BR004,Cashier,Analytics,2022-08-14 06:31:10
+E500138,Mohit Khan,BR005,Cashier,Loans,2018-02-01 10:13:40
+E500139,Kriti Kazi,BR004,Relationship Manager,Retail Banking,2024-12-03 12:37:46
+E500140,Bhavya Bhat,BR007,Customer Service Executive,Loans,2022-04-16 12:01:05
+E500141,Vivek Rao,BR008,Operations Executive,Analytics,2019-02-12 07:32:14
+E500142,Anjali Bhat,BR003,Operations Executive,Loans,2021-09-04 21:47:58
+E500143,Swati Shetty,BR002,Operations Executive,Customer Service,2022-05-05 23:17:40
+E500144,Mohit Nair,BR003,Relationship Manager,Analytics,2022-10-11 07:03:59
+E500145,Vikas Nair,BR003,Cashier,Analytics,2021-08-14 13:29:46
+E500146,Meera Bhat,HO001,Branch Manager,Loans,2023-01-28 10:24:12
+E500147,Pooja Mishra,HO001,Operations Executive,Operations,2022-03-03 17:52:08
+E500148,Vikas Khan,BR008,Loan Officer,Analytics,2022-07-16 16:59:06
+E500149,Swati Patil,HO001,Loan Officer,Customer Service,2019-03-27 15:37:25
+E500150,Sahil Gowda,BR008,Cashier,Loans,2019-09-02 15:15:55
+E500151,Diya Bhat,BR004,Relationship Manager,Analytics,2022-04-07 22:40:45
+E500152,Karan Rao,BR006,Operations Executive,Loans,2020-12-16 05:29:10
+E500153,Swati Sharma,HO001,Relationship Manager,Retail Banking,2018-02-16 21:14:44
+E500154,Priya Naik,BR008,Cashier,Operations,2021-04-18 08:12:46
+E500155,Bhavya Verma,BR005,Cashier,Operations,2022-02-07 14:51:12
+E500156,Pooja Mehta,HO001,Loan Officer,Analytics,2018-09-16 06:24:40
+E500157,Aarav Naik,BR008,Cashier,Loans,2021-02-18 04:19:44
+E500158,Vivek Shetty,BR008,Loan Officer,Analytics,2024-06-11 01:51:53
+E500159,Swati Mishra,BR002,Data Analyst,Analytics,2020-10-22 05:48:14
+E500160,Pooja Mehta,BR005,Branch Manager,Operations,2018-05-29 04:45:28

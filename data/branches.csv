@@ -1,0 +1,9 @@
+Branch_ID,Branch_Name,City,State,PIN_Code,Branch_Type
+HO001,Head Office,Bengaluru,Karnataka,560001,Head Office
+BR002,Hubballi Branch,Hubballi,Karnataka,580020,Branch
+BR003,Dharwad Branch,Dharwad,Karnataka,580001,Branch
+BR004,Mysuru Branch,Mysuru,Karnataka,570001,Branch
+BR005,Mangaluru Branch,Mangaluru,Karnataka,575001,Branch
+BR006,Belagavi Branch,Belagavi,Karnataka,590001,Branch
+BR007,Davanagere Branch,Davanagere,Karnataka,577001,Branch
+BR008,Shivamogga Branch,Shivamogga,Karnataka,577201,Branch

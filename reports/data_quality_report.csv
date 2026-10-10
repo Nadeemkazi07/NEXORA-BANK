@@ -1,0 +1,8 @@
+Dataset,Rows,Columns,Missing_Values,Duplicate_Rows
+Branches,8,6,0,0
+Customers,10000,14,0,0
+Accounts,10000,7,0,0
+Transactions,50000,8,0,0
+Loans,5000,11,0,0
+Employees,160,6,0,0
+Products,11,5,0,0

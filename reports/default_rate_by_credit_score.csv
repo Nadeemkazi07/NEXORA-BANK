@@ -1,0 +1,5 @@
+Credit_Score_Group,Total_Loans,Defaulted_Loans,Average_Loan_Amount,Default_Rate
+Poor,280,50,2161271.0589285716,17.86
+Fair,2293,216,2363679.871609246,9.42
+Good,1913,135,2425674.5937532675,7.06
+Excellent,514,42,2241515.1284435797,8.17

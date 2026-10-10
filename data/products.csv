@@ -1,0 +1,12 @@
+Product_ID,Product_Name,Category,Indicative_Rate,Description
+P001,Savings Account,Deposit,0.0,Basic savings account
+P002,Current Account,Deposit,0.0,Business current account
+P003,Premium Savings,Deposit,0.0,Premium savings account
+P004,Credit Card,Credit,28.0,Standard credit card
+P005,Premium Credit Card,Credit,24.0,Premium rewards card
+P006,Personal Loan,Loan,14.5,Unsecured personal loan
+P007,Home Loan,Loan,9.25,Housing finance
+P008,Auto Loan,Loan,10.75,Vehicle finance
+P009,Education Loan,Loan,8.75,Education finance
+P010,Business Loan,Loan,13.25,SME/business finance
+P011,Investment Product,Investment,7.5,Managed investment product

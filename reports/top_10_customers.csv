@@ -1,0 +1,11 @@
+Customer_ID,Name,City,Branch_ID,Account_Type,Account_Balance,Credit_Score
+C102934,Vikas Mishra,Belagavi,BR006,Savings,5000000.0,737
+C107218,Rakesh Bhat,Belagavi,BR006,Savings,5000000.0,747
+C106707,Neha Kazi,Hubballi,BR002,Savings,5000000.0,602
+C100992,Aditi Gowda,Mangaluru,BR005,Premium Savings,5000000.0,722
+C103455,Bhavya Chavan,Bengaluru,HO001,Savings,5000000.0,616
+C108989,Aditi Mehta,Dharwad,BR003,Premium Savings,5000000.0,741
+C105934,Sanjay Gupta,Shivamogga,BR008,Savings,5000000.0,647
+C104154,Pooja Desai,Bengaluru,HO001,Savings,5000000.0,784
+C101880,Akash Rao,Mysuru,BR004,Savings,5000000.0,651
+C109864,Nandini Verma,Shivamogga,BR008,Savings,4760672.64,662

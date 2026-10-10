@@ -1,0 +1,6 @@
+Loan_Type,Total_Loans,Defaulted_Loans,Total_Loan_Amount,Default_Rate
+Auto,728,77,940026254.1,10.58
+Personal,1336,132,1055520780.85,9.88
+Business,1009,83,3242348679.16,8.23
+Home,1436,117,6057690956.61,8.15
+Education,491,34,521941445.25,6.92
